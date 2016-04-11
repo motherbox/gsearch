@@ -60,3 +60,8 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+
+# Ignore gsearch data
+*.zip
+Searches/*.json
+Searches/
