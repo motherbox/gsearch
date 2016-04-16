@@ -65,3 +65,6 @@ target/
 *.zip
 Searches/*.json
 Searches/
+
+# Config files
+.twitter_keys.json
